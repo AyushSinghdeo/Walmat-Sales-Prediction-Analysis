@@ -8,7 +8,7 @@ Using this model, BigMart will try to understand the properties of products and 
 
 Inputs
 
-| Variable | Description |
+| Variable| | Description |
 |:--||:--|
 |Item_Identifier||Uniqueproduct ID|
 |Item_Weight||Weight of product|
